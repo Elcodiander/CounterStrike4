@@ -1302,3 +1302,359 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.02-08.15.57:897][ 51]AssetCheck: New page: Asset Save: BP_Gamemode
 [2024.10.02-08.15.57:898][ 51]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_Gamemode.BP_Gamemode
 [2024.10.02-08.49.38:047][810]LogDerivedDataCache: C:/Users/Elcodiander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.050 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 552 files in 934 folders with total size 19 MiB.
+[2024.10.02-09.49.38:054][150]LogDerivedDataCache: C:/Users/Elcodiander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.056 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 552 files in 934 folders with total size 19 MiB.
+[2024.10.02-10.19.27:282][467]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.19.27:318][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.10.02-10.19.27:767][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.19.27:826][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.19.27:844][508]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.19.27:844][508]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState4F6837B846C28F3F4C0425A1E1542538.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.19.27:850][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 572 ms)
+[2024.10.02-10.19.27:851][508]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.19.27:851][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.19.55:643][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.19.55:688][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.19.55:705][815]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.19.55:706][815]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState797681314B0011775EE8868C3E8BCD8E.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.19.55:711][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 640 ms)
+[2024.10.02-10.19.55:713][815]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.19.55:713][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.19.56:199][872]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.19.56:235][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.02-10.22.50:155][327]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-10.22.50:155][327]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-10.23.32:236][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.02-10.23.32:238][635]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.10.02-10.23.32:238][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Core/Base/BP_GameState] ([2] browsable assets)...
+[2024.10.02-10.23.32:238][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/Base/BP_GameState]
+[2024.10.02-10.23.32:255][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Core/Base/BP_GameState_Auto2
+[2024.10.02-10.23.32:255][635]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState_Auto2C40379C4433FBEC3A0767F9D7DB04BBB.tmp' to '../../../../../Unreal Projects/CounterStrike4/Saved/Autosaves/Game/Blueprints/Core/Base/BP_GameState_Auto2.uasset'
+[2024.10.02-10.23.32:292][635]LogFileHelpers: Auto-saving content packages took 0.054
+[2024.10.02-10.23.34:724][643]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-10.23.34:724][643]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-10.23.38:217][ 36]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.23.38:253][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.02-10.23.41:084][334]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.02-10.23.43:233][588]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.23.43:269][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.02-10.23.43:795][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.23.43:836][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.23.43:853][631]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.23.43:854][631]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameStateA19FCE3B4C854166216363A1B4D99BFE.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.23.43:858][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 704 ms)
+[2024.10.02-10.23.43:862][631]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.23.43:862][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.25.50:719][369]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.02-10.25.54:259][778]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-10.25.54:259][778]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-10.27.06:417][281]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.02-10.27.16:209][435]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.27.16:246][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.10.02-10.27.16:844][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.27.16:886][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.27.16:904][486]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.27.16:904][486]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState72B8AFC846575B1B271F019AACCB94F3.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.27.16:909][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 769 ms)
+[2024.10.02-10.27.16:911][486]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.27.16:911][486]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.27.24:894][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.27.24:937][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.27.24:955][439]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.27.24:955][439]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState1E3319E34091FC2E1097F387A6A9C89D.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.27.24:959][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 835 ms)
+[2024.10.02-10.27.24:962][439]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.27.24:962][439]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.27.54:508][940]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.27.54:544][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.02-10.27.58:443][361]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.02-10.28.00:400][590]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.28.00:437][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.02-10.28.00:961][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.28.01:003][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.28.01:022][629]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.28.01:022][629]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState21DB4A244F92B05604AA3E988D964F0E.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.28.01:027][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 901 ms)
+[2024.10.02-10.28.01:030][629]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.28.01:030][629]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.28.12:441][736]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-10.28.12:441][736]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-10.30.07:866][497]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-10.30.07:866][497]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-10.30.24:144][462]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-10.30.24:144][462]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-10.31.23:909][793]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.02-10.31.25:609][990]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.31.25:648][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.10.02-10.32.19:395][410]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.32.19:434][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.02-10.32.19:976][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.32.20:021][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.32.20:039][454]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.32.20:040][454]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameStateEE48CA5547CC35DE68128094438D7C1E.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.32.20:044][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 969 ms)
+[2024.10.02-10.32.20:048][454]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.32.20:048][454]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.32.37:195][491]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-10.32.37:195][491]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-10.33.12:196][658]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.02-10.33.17:105][230]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.33.17:144][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.02-10.33.17:602][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.33.17:653][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.33.17:671][264]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.33.17:671][264]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameStateF7358C98494C7A14BF71878970948605.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.33.17:676][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.04 sec)
+[2024.10.02-10.33.17:679][264]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.33.17:679][264]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.34.13:617][512]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.34.13:654][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.02-10.34.14:160][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.34.14:204][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.34.14:222][552]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.34.14:222][552]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState15B6BAFA432F8D2E7568FBA66DBCD6F3.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.34.14:227][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.10 sec)
+[2024.10.02-10.34.14:230][552]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.34.14:230][552]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.37.09:338][713]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-10.37.09:338][713]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-10.45.14:290][329]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.45.14:329][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.10.02-10.45.15:433][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-10.45.15:459][441]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.02-10.45.15:459][441]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.02-10.45.15:466][441]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 6 ms
+[2024.10.02-10.45.15:572][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-10.45.15:592][441]PIE: New page: PIE session: FirstPersonMap (2 окт. 2024 г., 16:45:15)
+[2024.10.02-10.45.15:602][441]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.10.02-10.45.15:602][441]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.10.02-10.45.15:615][441]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.02-10.45.15:619][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003623s)
+[2024.10.02-10.45.15:619][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003662s)
+[2024.10.02-10.45.15:632][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.02-10.45.15:634][441]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-10.45.15:634][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-10.45.15:634][441]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.02-10.45.15:635][441]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-10.45.15:635][441]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-10.45.15:635][441]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-10.45.15:635][441]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Listen Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-10.45.15:635][441]LogContentBundle: [FirstPersonMap(Listen Server)] Creating new contrainer.
+[2024.10.02-10.45.15:636][441]LogWorldPartition: Display: WorldPartition initialize took 934 us (total: 1.06 sec)
+[2024.10.02-10.45.15:641][441]LogPlayLevel: PIE: World Init took: (0.007823s)
+[2024.10.02-10.45.15:642][441]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.02-10.45.15:642][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-10.45.15:642][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-10.45.15:642][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-10.45.15:642][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-10.45.15:642][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.02-10.45.15:642][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-10.45.15:642][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.02-10.45.15:642][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-10.45.15:642][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-10.45.15:642][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-10.45.15:642][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-10.45.15:644][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-10.45.15:662][441]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2024.10.02-10.45.15:662][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-10.45.15:662][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-10.45.15:662][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-10.45.15:663][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.10.02-10.45.15:663][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.10.02-10.45.15:664][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.10.02-10.45.15:664][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.10.02-10.45.15:665][441]LogInit: FAudioDevice initialized with ID 2.
+[2024.10.02-10.45.15:665][441]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.10.02-10.45.15:665][441]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.02-10.45.15:722][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-10.45.15:722][441]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.10.02-10.45.15:724][441]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.02-13.45.15
+[2024.10.02-10.45.15:726][441]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.10.02-10.45.15:757][441]LogWorld: Bringing up level for play took: 0.034105
+[2024.10.02-10.45.15:854][441]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.10.02-10.45.15:893][441]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.10.02-10.45.15:893][441]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.10.02-10.45.15:893][441]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.10.02-10.45.15:893][441]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.10.02-10.45.15:906][441]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.10.02-10.45.15:906][441]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2024.10.02-10.45.15:906][441]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.02-10.45.15:906][441]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.02-10.45.15:906][441]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.02-10.45.15:944][441]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.02-10.45.15:948][441]PIE: Server logged in
+[2024.10.02-10.45.15:952][441]PIE: Play in editor total start time 0,492 seconds.
+[2024.10.02-10.45.15:952][441]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-10.45.15:952][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-10.45.15:953][441]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2024.10.02-10.45.15:953][441]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.02-10.45.15:953][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-10.45.15:953][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-10.45.15:953][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-10.45.15:953][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-10.45.15:953][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.02-10.45.15:953][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-10.45.15:953][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.02-10.45.15:953][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-10.45.15:954][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-10.45.15:954][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-10.45.15:954][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-10.45.15:956][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-10.45.15:973][441]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2024.10.02-10.45.15:974][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-10.45.15:974][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-10.45.15:974][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-10.45.15:974][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.02-10.45.15:974][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.10.02-10.45.15:977][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.02-10.45.15:977][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.10.02-10.45.15:977][441]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.02-10.45.15:977][441]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2024.10.02-10.45.15:977][441]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.02-10.45.16:020][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-10.45.16:021][441]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2024.10.02-10.45.16:021][441]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.10.02-10.45.16:021][441]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.10.02-10.45.16:021][441]LogNet: IpConnection_0 setting maximum channels to: 32767
+[2024.10.02-10.45.16:021][441]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.10.02-10.45.16:031][441]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 3
+[2024.10.02-10.45.16:031][441]LogNet: Game client on port 17777, rate 100000
+[2024.10.02-10.45.16:146][441]LogNetVersion: CounterStrike4 1.0.0.0, NetCL: 27405482, EngineNetworkVersion: 32, GameNetworkVersion: 0 (Checksum: 846538552)
+[2024.10.02-10.45.16:150][441]PIE: Client logged in
+[2024.10.02-10.45.16:153][441]PIE: Play in editor total start time 0,694 seconds.
+[2024.10.02-10.45.16:325][441]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.10.02-10.45.16:351][441]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.10.02-10.45.17:163][495]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63971
+[2024.10.02-10.45.17:163][495]LogHandshake: SendConnectChallenge. Timestamp: 1.736515, Cookie: 183228223112088119255151121091028166162068186148087112024075
+[2024.10.02-10.45.17:163][495]LogHandshake: Cached server SessionID: 0
+[2024.10.02-10.45.17:164][495]LogHandshake: SendChallengeResponse. Timestamp: 1.736515, Cookie: 183228223112088119255151121091028166162068186148087112024075
+[2024.10.02-10.45.17:176][496]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63971
+[2024.10.02-10.45.17:176][496]LogHandshake: SendChallengeAck. InCookie: 183228223112088119255151121091028166162068186148087112024075
+[2024.10.02-10.45.17:176][496]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63971
+[2024.10.02-10.45.17:176][496]LogNet: IpConnection_1 setting maximum channels to: 32767
+[2024.10.02-10.45.17:176][496]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.10.02-10.45.17:176][496]LogNet: NotifyAcceptedConnection: Name: FirstPersonMap, TimeStamp: 10/02/24 13:45:17, [UNetConnection] RemoteAddr: 127.0.0.1:63971, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.10.02-10.45.17:176][496]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63971, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.10.02-10.45.17:177][496]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.10.02-10.45.17:197][497]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap: Accepted
+[2024.10.02-10.45.17:201][497]LogNet: Remote platform little endian=1
+[2024.10.02-10.45.17:201][497]LogNet: This platform little endian=1
+[2024.10.02-10.45.17:204][497]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.10.02-10.45.17:217][498]LogNet: Login request: ?Name=DESKTOP-TRAFLDQ-4BE0968C4ED9B2C1A749CC8E7B22E89A userId: NULL:DESKTOP-TRAFLDQ-4BE0968C4ED9B2C1A749CC8E7B22E89A platform: NULL
+[2024.10.02-10.45.17:218][498]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap, Game: /Game/Blueprints/Core/Base/BP_Gamemode.BP_Gamemode_C)
+[2024.10.02-10.45.17:218][498]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap?game=/Game/Blueprints/Core/Base/BP_Gamemode.BP_Gamemode_C
+[2024.10.02-10.45.17:218][498]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2024.10.02-10.45.17:218][498]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-10.45.17:219][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-10.45.17:230][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-10.45.17:232][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.02-10.45.17:237][498]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2024.10.02-10.45.17:237][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-10.45.17:237][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-10.45.17:238][498]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-10.45.17:238][498]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-10.45.17:238][498]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-10.45.17:238][498]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-10.45.17:238][498]LogContentBundle: [FirstPersonMap(Client 1)] Creating new contrainer.
+[2024.10.02-10.45.17:238][498]LogWorldPartition: Display: WorldPartition initialize took 807 us (total: 1.06 sec)
+[2024.10.02-10.45.17:238][498]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2024.10.02-10.45.17:239][498]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.02-13.45.17
+[2024.10.02-10.45.17:240][498]LogWorld: Bringing up level for play took: 0.001056
+[2024.10.02-10.45.17:252][498]LogLoad: Took 0.033618 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.10.02-10.45.17:276][499]LogNet: Client netspeed is 100000
+[2024.10.02-10.45.17:276][499]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=DESKTOP-TRAFLDQ-4BE0968C4ED9B2C1A749CC8E7B22E89A?SplitscreenCount=1
+[2024.10.02-10.45.17:365][499]LogNet: Join succeeded: DESKTOP-TRAFLDQ-4BE0
+[2024.10.02-10.45.17:368][499]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: ================================================
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 12 distinct outputs (75.00%)
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: RAM used: 364,90 KiB of 1,60 GiB budget. Usage: 0.02%
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.10.02-10.45.18:648][552]LogShaderCompilers: Display: ================================================
+[2024.10.02-10.45.21:976][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-10.45.21:976][696]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap
+[2024.10.02-10.45.21:977][696]LogSlate: Window 'CounterStrike4 Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.02-10.45.21:981][696]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-10.45.21:982][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-10.45.21:982][696]LogContentBundle: [FirstPersonMap(Client 1)] Deleting container.
+[2024.10.02-10.45.21:997][696]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2024.10.02-10.45.21:997][696]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2024.10.02-10.45.22:010][696]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_CharacterController_C_0, Owner: BP_CharacterController_C_0, UniqueId: NULL:DESKTOP-TRAFLDQ-4BE0968C4ED9B2C1A749CC8E7B22E89A, Channels: 17, Time: 2024.10.02-10.45.22
+[2024.10.02-10.45.22:010][696]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_CharacterController_C_0, Owner: BP_CharacterController_C_0, UniqueId: NULL:DESKTOP-TRAFLDQ-4BE0968C4ED9B2C1A749CC8E7B22E89A
+[2024.10.02-10.45.22:016][696]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2024.10.02-10.45.22:018][696]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.02-10.45.22:025][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-10.45.22:025][696]LogSlate: Window 'CounterStrike4 Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.02-10.45.22:028][696]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-10.45.22:028][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-10.45.22:028][696]LogContentBundle: [FirstPersonMap(Listen Server)] Deleting container.
+[2024.10.02-10.45.22:029][696]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2024.10.02-10.45.22:029][696]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2024.10.02-10.45.22:029][696]LogNet: UNetConnection::SendCloseReason:
+[2024.10.02-10.45.22:029][696]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.10.02-10.45.22:029][696]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63971, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_CharacterController_C_1, Owner: BP_CharacterController_C_1, UniqueId: NULL:DESKTOP-TRAFLDQ-4BE0968C4ED9B2C1A749CC8E7B22E89A
+[2024.10.02-10.45.22:029][696]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63971, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_CharacterController_C_1, Owner: BP_CharacterController_C_1, UniqueId: NULL:DESKTOP-TRAFLDQ-4BE0968C4ED9B2C1A749CC8E7B22E89A, Channels: 17, Time: 2024.10.02-10.45.22
+[2024.10.02-10.45.22:029][696]LogNet: UNetConnection::SendCloseReason:
+[2024.10.02-10.45.22:029][696]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.10.02-10.45.22:029][696]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63971, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_CharacterController_C_1, Owner: BP_CharacterController_C_1, UniqueId: NULL:DESKTOP-TRAFLDQ-4BE0968C4ED9B2C1A749CC8E7B22E89A
+[2024.10.02-10.45.22:030][696]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2024.10.02-10.45.22:032][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-10.45.22:036][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-10.45.22:065][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.02-10.45.22:065][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.02-10.45.22:067][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.02-10.45.22:076][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-10.45.22:076][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.02-10.45.22:076][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.02-10.45.22:077][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.02-10.45.22:112][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.10.02-10.45.22:152][697]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.10.02-10.45.22:152][697]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.10.02-10.45.24:581][974]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-10.45.24:618][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.02-10.45.49:034][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.02-10.45.49:036][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.10.02-10.45.49:036][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Core/Base/BP_GameState] ([2] browsable assets)...
+[2024.10.02-10.45.49:036][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/Base/BP_GameState]
+[2024.10.02-10.45.49:053][110]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Core/Base/BP_GameState_Auto3
+[2024.10.02-10.45.49:054][110]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState_Auto3CD55B8F344C188B927EF7186E733E64C.tmp' to '../../../../../Unreal Projects/CounterStrike4/Saved/Autosaves/Game/Blueprints/Core/Base/BP_GameState_Auto3.uasset'
+[2024.10.02-10.45.49:071][110]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.10.02-10.49.38:050][577]LogDerivedDataCache: C:/Users/Elcodiander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 552 files in 934 folders with total size 19 MiB.
+[2024.10.02-10.52.15:865][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-10.52.15:903][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-10.52.15:921][ 50]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-10.52.15:921][ 50]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState924698DA4C8FC1A155A09B976C6F9788.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-10.52.15:926][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.17 sec)
+[2024.10.02-10.52.15:930][ 50]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-10.52.15:930][ 50]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-10.54.12:198][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.02-10.54.27:016][551]LogViewport: Scene viewport resized to 732x367, mode Windowed.
+[2024.10.02-10.54.27:664][551]LogViewport: Scene viewport resized to 1104x572, mode Windowed.
+[2024.10.02-11.04.09:755][541]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-11.04.09:755][541]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.10.02-11.04.22:701][908]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.02-11.04.43:182][503]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-11.04.43:226][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.10.02-11.04.43:825][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-11.04.43:855][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-11.04.43:875][536]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-11.04.43:875][536]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState7218D53E4D519AB9EC094E95E2B2EA60.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-11.04.43:885][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.23 sec)
+[2024.10.02-11.04.43:887][536]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-11.04.43:887][536]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-11.06.12:673][413]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-11.06.12:673][413]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.10.02-11.06.13:409][490]BlueprintLog: New page: Compile BP_GameState
+[2024.10.02-11.06.13:451][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.02-11.06.14:503][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-11.06.14:542][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Base/BP_GameState" FILE="../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset" SILENT=true
+[2024.10.02-11.06.14:560][592]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Base/BP_GameState
+[2024.10.02-11.06.14:560][592]LogSavePackage: Moving '../../../../../Unreal Projects/CounterStrike4/Saved/BP_GameState4863026A4750E4B7BAB858892F094D96.tmp' to '../../../../../Unreal Projects/CounterStrike4/Content/Blueprints/Core/Base/BP_GameState.uasset'
+[2024.10.02-11.06.14:566][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.29 sec)
+[2024.10.02-11.06.14:569][592]AssetCheck: New page: Asset Save: BP_GameState
+[2024.10.02-11.06.14:569][592]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Base/BP_GameState.BP_GameState
+[2024.10.02-11.09.39:254][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.10.02-11.10.04:591][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
